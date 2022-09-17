@@ -723,7 +723,7 @@ public class GameEngine
             try{
                 String vWord2 = pC.getSecondWord();
 
-                Scanner vS = new Scanner (new File (vWord2+".txt"));
+                Scanner vS = new Scanner (new File ("test/" + vWord2+".txt"));
                 while ( vS.hasNext()) {
                     this.interpretCommand (vS.nextLine());      
                 } // if

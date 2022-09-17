@@ -1,6 +1,7 @@
 aller sud
 aller est
 aller est
+aller est
 répondre 3
 aller est
 répondre 4
@@ -19,5 +20,11 @@ aller sud
 prendre carte_sport
 aller ouest
 prendre lunettes
-retour
+aller est
 donner lunettes
+retour
+aller ouest
+parler
+aller nord
+dévérouiller ouest
+aller ouest
