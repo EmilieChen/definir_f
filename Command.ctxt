@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Command
+comment1.params=pCom\ pSec
+comment1.target=Command(CommandWord,\ java.lang.String)
+comment2.params=
+comment2.target=CommandWord\ getCommandWord()
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment4.params=
+comment4.target=boolean\ hasSecondWord()
+comment5.params=
+comment5.target=boolean\ isUnknown()
+comment5.text=\r\n\ @return\ true\ if\ this\ command\ was\ not\ understood.\r\n
+numComments=6

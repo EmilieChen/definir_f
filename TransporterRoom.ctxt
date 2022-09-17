@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TransporterRoom
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ TransporterRoom\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pDescription\ pImage\ pRooms
+comment1.target=TransporterRoom(java.lang.String,\ java.lang.String,\ java.util.ArrayList)
+comment1.text=\r\n\ @param\ pRooms\ is\ a\ list\ of\ Room\ we\ want\ to\ acess\ by\ the\ transporter\r\n\ @param\ pImage\ is\ the\ name\ of\ the\ Image\r\n\ @param\ pDescription\ is\ a\ description\ of\ the\ Room\r\n\ \r\n\ Constructeur\ d'objets\ de\ classe\ TransporterRoom\r\n\ \r\n
+comment2.params=pDirection
+comment2.target=Room\ getExit(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getExitString()
+numComments=4

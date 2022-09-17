@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Character\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pName\ pPresentation\ pItemForPlayer\ pItemWanted\ pIndice
+comment1.target=Character(java.lang.String,\ java.lang.String,\ Item,\ Item,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Character\r\n\ @param\ pName\ donne\ le\ nom\ du\ Character\r\n\ @param\ pPresentation\ donne\ une\ pr\u00E9sentation\ du\ Character\r\n\ @param\ pItemWanted\ donne\ l'item\ que\ le\ Character\ veut\ en\ \u00E9change\r\n\ @param\ pItemForPlayer\ est\ l'item\ que\ le\ Character\ donne\ au\ Player\ \r\n\ s'il\ obtient\ son\ aItemWanted\r\n\ @param\ pIndice\ donne\ l'indice\ que\ le\ Character\ donne\ au\ Player\ \r\n\ s'il\ obtient\ son\ aItemWanted\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNameCharacter()
+comment3.params=pName
+comment3.target=void\ setNameCharacter(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getPresentation()
+comment5.params=
+comment5.target=Item\ getItemForPlayer()
+comment6.params=
+comment6.target=Item\ getItemWanted()
+comment7.params=
+comment7.target=java.lang.String\ getIndice()
+comment8.params=pItem
+comment8.target=void\ removeItemForPlayer(Item)
+comment9.params=
+comment9.target=void\ changePresentation()
+numComments=10

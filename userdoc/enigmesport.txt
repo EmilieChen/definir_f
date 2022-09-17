@@ -1,0 +1,44 @@
+aller sud
+aller est
+aller est
+répondre 3
+aller est
+répondre 3
+aller nord
+répondre 3
+retour
+retour
+aller nord
+répondre 3
+aller ouest
+répondre 3
+insérer carte_stockage
+aller sud
+aller sud
+aller sud
+prendre carte_sport
+aller ouest
+prendre lunettes
+aller est
+donner lunettes
+retour
+aller ouest
+parler
+aller nord
+dévérouiller ouest
+aller ouest
+aller nord
+prendre carte_identite
+aller sud
+aller sud
+parler
+répondre 2
+retour
+aller est
+donner carte_identite
+aller sud
+aller est
+aller est
+aller nord
+dévérouiller est
+aller est

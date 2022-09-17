@@ -1,0 +1,6 @@
+prendre Papier
+aller sud
+aller ouest
+aller sud
+retour
+liste

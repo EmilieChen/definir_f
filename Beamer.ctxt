@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Beamer\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pN\ pD\ pW
+comment1.target=Beamer(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ @param\ pN\ is\ the\ name\ of\ item\ Beamer\r\n\ @param\ pD\ is\ the\ description\ of\ item\ Beamer\r\n\ @param\ pW\ is\ the\ weight\ of\ item\ Beamer\r\n\ Constructeur\ d'objets\ de\ classe\ Beamer\r\n
+comment2.params=pR
+comment2.target=void\ chargeBeamer(Room)
+comment2.text=\r\n\ Un\ exemple\ de\ m\u00E9thode\ -\ remplacez\ ce\ commentaire\ par\ le\ v\u00F4tre\r\n\r\n\ @param\ pR\ is\ the\ Room\ we\ want\ to\ return\ using\ Beamer\r\n
+comment3.params=
+comment3.target=Room\ getRoomBeamer()
+numComments=4

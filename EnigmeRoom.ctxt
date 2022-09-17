@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EnigmeRoom
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ EnigmeRoom\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pDescription\ pImage\ pEnigme\ pAnswer
+comment1.target=EnigmeRoom(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ EnigmeRoom*\r\n\ @param\ pDescription\ give\ a\ description\ of\ the\ Room\r\n\ @param\ pImage\ is\ the\ name\ of\ the\ image\r\n\ @param\ pEnigme\ give\ the\ enigme\r\n\ @param\ pAnswer\ is\ the\ answer\ wanting\r\n
+comment2.params=
+comment2.target=boolean\ getSucess()
+comment3.params=
+comment3.target=void\ setSucess()
+comment4.params=
+comment4.target=java.lang.String\ getEnigme()
+comment4.text=\r\n\ Un\ exemple\ de\ m\u00E9thode\ -\ remplacez\ ce\ commentaire\ par\ le\ v\u00F4tre\r\n\ @return\ the\ Enigme\ text\r\n
+comment5.params=
+comment5.target=java.lang.String\ getAnswer()
+numComments=6
